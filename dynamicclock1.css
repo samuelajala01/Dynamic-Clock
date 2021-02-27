@@ -1,0 +1,19 @@
+    button{
+        font-size: 30px; 
+        font-weight: bold;
+         background-color: black; 
+         color:yellow; 
+         border:2px solid black;
+    }
+    
+
+body{
+         background:linear-gradient(yellow,black,grey,yellow,black,grey,yellow
+         ,black,yellow );
+      height:100vh; background-repeat:no-repeat;
+    }
+    p{
+        font-size: 70px; 
+        font-weight: bold;
+        color:yellow;
+    }
